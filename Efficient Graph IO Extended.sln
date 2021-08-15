@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Efficient Graph IO Extended", "Efficient Graph IO Extended\Efficient Graph IO Extended.vcxproj", "{56762AAC-1B0A-4513-AF39-E22756D210DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Debug|x64.ActiveCfg = Debug|x64
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Debug|x64.Build.0 = Debug|x64
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Debug|x86.Build.0 = Debug|Win32
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Release|x64.ActiveCfg = Release|x64
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Release|x64.Build.0 = Release|x64
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Release|x86.ActiveCfg = Release|Win32
+		{56762AAC-1B0A-4513-AF39-E22756D210DE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6514A4-97BC-4748-A53F-7B21CA0A2E1E}
+	EndGlobalSection
+EndGlobal

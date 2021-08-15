@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\efficient graph io extended\efficient graph io extended\depends.hpp(10): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\efficient graph io extended\efficient graph io extended\init.hpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\efficient graph io extended\efficient graph io extended\init.hpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\efficient graph io extended\efficient graph io extended\updates.hpp(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\efficient graph io extended\efficient graph io extended\updates.hpp(300): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\efficient graph io extended\efficient graph io extended\main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\efficient graph io extended\efficient graph io extended\main.cpp(34): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  All 394 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Efficient Graph IO Extended.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\Projects\Efficient Graph IO Extended\Release\Efficient Graph IO Extended.exe
